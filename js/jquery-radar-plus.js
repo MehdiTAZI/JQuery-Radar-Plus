@@ -29,10 +29,12 @@ HOW TO :
 	3-Define data for skillsPieChart : either using the metadata attributs ( data-color , data-......) or using JavaScript.
 	
 	Simple Example :  See index.html
-	<div class="skillsPieChart" data-values='{"JAVA": 4.5,"C#": 3.0,"PHP":3.0,"HTML5":4.0,"CSS3":4.0}' data-width="200" data-height="200" data-red="0" data-green="128" data-blue="255">
-	<h2>MyChart</h2>
-	<div class="chartCanvasWrap row"></div>
-	<h5>some details .....</h5>
+	<div class="skillsPieChart" data-values='{"JAVA": 4.5,"C#": 3.0,"PHP":3.0,"HTML5":4.0,"CSS3":4.0}' 
+		data-width="200" data-height="200" data-red="0" data-green="128" data-blue="255">
+			<h2>MyChart</h2>
+			<div class="chartCanvasWrap row"></div>
+			<h5>some details .....</h5>
+	</div>
 					
 */
 (function($) {
