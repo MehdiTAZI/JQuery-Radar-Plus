@@ -1,4 +1,4 @@
-JQuery Radar Plus By Mehdi TAZI(http://www.tazimehdi.com)
+JQuery Radar Plus By Mehdi TAZI(http://tazimehdi.com)
 is an improved version of JQueryRadarChart created by Ryan ALLRED
 
 Additional Features:
@@ -59,3 +59,7 @@ Simple Example : See index.html
 		<div class="chartCanvasWrap row"></div>
 		<h5>some details .....</h5>
 </div>
+
+
+--------------------------
+http://tazimehdi.com
